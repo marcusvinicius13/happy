@@ -3,6 +3,7 @@
     yarn init -y
     yarn tsc --init (.tsconfig)
     yarn add typeorm sqlite3
+    yarn add express-async-errors
 
 
 # Bibliotecas
