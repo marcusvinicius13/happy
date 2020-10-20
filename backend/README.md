@@ -40,3 +40,8 @@
     O cors é adicionado para que aplicações que não esteja no mesmo owner que o nosso backend, não tenham acesso ao mesmo.
     Vou criar de uma maneira mais simples, apenas para acessar, 
     mas sei que pode ser configurada caso o sistema esteja em produção para que um cliente específico possa ter acesso!
+
+
+#   Fim 
+
+    Finalizado back-end da aplicação.
